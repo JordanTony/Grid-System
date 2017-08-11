@@ -1,6 +1,4 @@
 
-
-
 img{
     width: 105px;
 }
@@ -19,7 +17,7 @@ body {
 .logo {
    position: relative;
     bottom: 20px;
-    margin-top: -80px;
+    margin-top: -10px;
     margin-left: 31%;
 }
 .apple{
@@ -41,7 +39,4 @@ body {
     position: relative;
     margin-left: 10%;
     margin-top: 50px;
-}
-@media screen and(min-width: 1200px){
-
 }
