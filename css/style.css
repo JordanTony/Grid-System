@@ -45,7 +45,6 @@ body {
     margin-top: 50px;
 }
  .circle{
-     margin-right: 20px;
      margin-top: 30px;
      border: solid white 5px;
     width: 100px;
@@ -54,6 +53,8 @@ body {
     -moz-border-radius: 50px;
     -webkit-border-radius: 50px;
     border-radius: 50px;
+
+
 }
 .circle1{
     margin-top: 30px;
@@ -64,6 +65,7 @@ body {
     -moz-border-radius: 50px;
     -webkit-border-radius: 50px;
     border-radius: 50px;
+
 }
 .circle2{
     margin-top: 30px;
@@ -74,6 +76,7 @@ body {
     -moz-border-radius: 50px;
     -webkit-border-radius: 50px;
     border-radius: 50px;
+
 }
 .circle3{
     margin-top: 30px;
@@ -84,6 +87,7 @@ body {
     -moz-border-radius: 50px;
     -webkit-border-radius: 50px;
     border-radius: 50px;
+
 }
 .circle p{
     position: relative;
