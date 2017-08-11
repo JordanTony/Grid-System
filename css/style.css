@@ -1,6 +1,7 @@
 
-img{
-    width: 105px;
+img {
+    width: 90%;
+    margin-bottom: 25px;
 }
 
 body {
@@ -24,26 +25,26 @@ body {
     margin-top: -10px;
     margin-left: 31%;
 }
-.apple{
-    position: relative;
-    margin-left: 30%;
-    margin-top: 80px;
-}
-.man{
-    position: relative;
-    margin-left: 30%;
-    margin-top: 50px;
-}
-.macbook{
-    position: relative;
-    margin-left: 10%;
-    margin-top: 80px;
-}
-.security {
-    position: relative;
-    margin-left: 10%;
-    margin-top: 50px;
-}
+/*.apple{*/
+    /*position: relative;*/
+    /*margin-left: 30%;*/
+    /*margin-top: 80px;*/
+/*}*/
+/*.man{*/
+    /*position: relative;*/
+    /*margin-left: 30%;*/
+    /*margin-top: 50px;*/
+/*}*/
+/*.macbook{*/
+    /*position: relative;*/
+    /*margin-left: 10%;*/
+    /*margin-top: 80px;*/
+/*}*/
+/*.security {*/
+    /*position: relative;*/
+    /*margin-left: 10%;*/
+    /*margin-top: 50px;*/
+/*}*/
  .circle{
      margin-top: 30px;
      border: solid white 5px;
@@ -93,7 +94,6 @@ body {
     position: relative;
     top: 40px;
     -webkit-text-fill-color: white;
-
 }
 .circle1 p{
     position: relative;
