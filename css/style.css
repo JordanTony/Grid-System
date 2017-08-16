@@ -22,7 +22,6 @@ body {
     position: relative;
     bottom: 18px;
 }
-
 .logo {
     width: 105px;
    position: relative;
@@ -30,26 +29,6 @@ body {
     margin-top: -10px;
     margin-left: 31%;
 }
-/*.apple{*/
-    /*position: relative;*/
-    /*margin-left: 30%;*/
-    /*margin-top: 80px;*/
-/*}*/
-/*.man{*/
-    /*position: relative;*/
-    /*margin-left: 30%;*/
-    /*margin-top: 50px;*/
-/*}*/
-/*.macbook{*/
-    /*position: relative;*/
-    /*margin-left: 10%;*/
-    /*margin-top: 80px;*/
-/*}*/
-/*.security {*/
-    /*position: relative;*/
-    /*margin-left: 10%;*/
-    /*margin-top: 50px;*/
-/*}*/
  .circle{
      margin-top: 30px;
      border: solid white 5px;
@@ -59,8 +38,6 @@ body {
     -moz-border-radius: 50px;
     -webkit-border-radius: 50px;
     border-radius: 50px;
-
-
 }
  .image{
      height: 100%;
@@ -102,29 +79,97 @@ body {
 }
 .circle p{
     position: relative;
-    top: 40px;
+    top: 30px;
     -webkit-text-fill-color: white;
 }
 .circle1 p{
     position: relative;
-    top: 40px;
+    top: 30px;
     -webkit-text-fill-color: white;
 }
 .circle2 p{
     position: relative;
-    top: 40px;
+    top: 30px;
     -webkit-text-fill-color: white;
 }
 .circle3 p{
     position: relative;
-    top: 40px;
+    top: 30px;
      -webkit-text-fill-color: white;
 }
 .side-list{
     position: relative;
     height: 60px;
+
 }
-.side-list h3{
+.side-list h3 {
     margin-left: 95px;
     font-size: 20px;
 }
+
+.circle10 {
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #d76046;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 25px;
+    display: inline-block;
+}
+.circle11 {
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #dfa03d;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 25px;
+    display: inline-block;
+}
+.circle12 {
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #7cb06c;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 25px;
+    display: inline-block;
+}
+.circle13{
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #00aba9;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 25px;
+    display: inline-block;
+    
+}
+.circle10 p{
+    position: relative;
+    top: 5px;
+    text-align: center;
+    -webkit-text-fill-color: black;
+}
+.circle11 p{
+    position: relative;
+    top: 5px;
+    text-align: center;
+    -webkit-text-fill-color: black;
+}
+.circle12 p{
+    position: relative;
+    top: 5px;
+    text-align: center;
+    -webkit-text-fill-color: black;
+}
+.circle13 p{
+    position: relative;
+    top: 5px;
+    text-align: center;
+    -webkit-text-fill-color: black;
+}
+*/
